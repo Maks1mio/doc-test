@@ -68,7 +68,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 ### Fenced Code Block
 
 <pre>
-<code>
+<code class="prettyprint prettyprinted" data-input-id="text-to-copy-3">
 // Unity C# reference source
 // Copyright (c) Unity Technologies. For terms of use, see
 // https://unity3d.com/legal/licenses/Unity_Reference_Only_License
