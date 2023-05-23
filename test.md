@@ -67,8 +67,8 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Fenced Code Block
 
-<pre>
-<code class="prettyprint prettyprinted" data-input-id="text-to-copy-1">
+
+```csharp
 // Unity C# reference source
 
 static readonly AnimationMotionXToDeltaPlayable m_NullPlayable = new AnimationMotionXToDeltaPlayable(PlayableHandle.Null);
@@ -79,8 +79,7 @@ public static AnimationMotionXToDeltaPlayable Create(PlayableGraph graph)
     var handle = CreateHandle(graph);
     return new AnimationMotionXToDeltaPlayable(handle);
 }
-</code>
-</pre>
+```
 
 ### Footnote
 
