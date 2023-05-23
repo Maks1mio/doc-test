@@ -81,6 +81,15 @@ public static AnimationMotionXToDeltaPlayable Create(PlayableGraph graph)
 }
 ```
 
+<div class="code-container">
+    <textarea style="display: none;" disabled type="text"
+        id="text-to-copy-1">Sprite,Foreground,<origin>,"<filepath>",<x>,<y></y></textarea>
+    <div class="svg-icon"><img src="lib/svg/laboratory/browser-code.svg" alt=""></div>
+    <code class="language-csharp" data-input-id="text-to-copy-1"></code>
+    <button class="copy-button" data-input-id="text-to-copy-1" type="button"><img
+            src="lib/svg/laboratory/content-copy.svg" alt=""></button>
+</div>
+
 ### Footnote
 
 Here's a sentence with a footnote. [^1]
