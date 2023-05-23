@@ -67,20 +67,6 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Fenced Code Block
 
-
-```csharp
-// Unity C# reference source
-
-static readonly AnimationMotionXToDeltaPlayable m_NullPlayable = new AnimationMotionXToDeltaPlayable(PlayableHandle.Null);
-public static AnimationMotionXToDeltaPlayable Null { get { return m_NullPlayable; } }
-
-public static AnimationMotionXToDeltaPlayable Create(PlayableGraph graph)
-{
-    var handle = CreateHandle(graph);
-    return new AnimationMotionXToDeltaPlayable(handle);
-}
-```
-
 <div class="code-container">
     <textarea style="display: none;" disabled type="text"
         id="text-to-copy-1">Sprite,Foreground,<origin>,"<filepath>",<x>,<y></y></textarea>
