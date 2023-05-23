@@ -67,6 +67,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Fenced Code Block
 
+<blockquote>
 ```
 {
   "firstName": "John",
@@ -74,6 +75,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
   "age": 25
 }
 ```
+</blockquote>
 
 ### Footnote
 
