@@ -17,7 +17,7 @@ Let’s start off by creating a sprite! To create a new sprite, you’d write th
 
 <div class="code-container">
     <div class="svg-icon"><img src="lib/svg/laboratory/browser-code.svg" alt=""></div>
-    <pre><code id="text-to-copy-1" class="language-csharp">Sprite, <<span>layer>, <</span>origin>, <<span>filepath>, <<span>x>, <<span>y></code></pre>
+    <pre class="language-csharp"><code id="text-to-copy-1" class="language-csharp">Sprite, <<span>layer>, <</span>origin>, "<<span>filepath>", <<span>x>, <<span>y></code></pre>
     <button class="copy-button" data-input-id="text-to-copy-1" type="button"><img
             src="lib/svg/laboratory/content-copy.svg" alt=""></button>
 </div>
@@ -49,12 +49,10 @@ When you have multiple sprites on the same layer, the one created later (i.e. ap
 Sounds good then! Now that we understand what layers are, let’s fill that placeholder in with a layer of our choice. Let’s go with Foreground.
 
 <div class="code-container">
-    <textarea style="display: none;" disabled type="text"
-        id="text-to-copy-2">Sprite, Foreground, <origin>, "<filepath>", <x>, <y></textarea>
     <div class="svg-icon"><img src="lib/svg/laboratory/browser-code.svg" alt=""></div>
-    <pre><code class="language-csharp" data-input-id="text-to-copy-2"></code></pre>
+    <pre class="language-csharp"><code id="text-to-copy-2" class="language-csharp">Sprite, Foreground, <<span>origin>, "<<span>filepath>", <<span>x>, <<span>y></code></pre>
     <button class="copy-button" data-input-id="text-to-copy-2" type="button"><img
-    src="lib/svg/laboratory/content-copy.svg" alt=""></button>
+            src="lib/svg/laboratory/content-copy.svg" alt=""></button>
 </div>
         
 ### Origin: It All Starts Here
@@ -79,12 +77,10 @@ There are nine possible origin points of an image:
 The most likely choice you’d find yourself using is Centre, as calculations such as movement and scale are handled far, far easier than the other settings. However, for special situations, the other origin points are very useful to have. For our example, let’s stick with Centre, then.
         
 <div class="code-container">
-    <textarea style="display: none;" disabled type="text"
-        id="text-to-copy-3">Sprite, Foreground, Centre, "<filepath>", <x>, <y></textarea>
     <div class="svg-icon"><img src="lib/svg/laboratory/browser-code.svg" alt=""></div>
-    <pre><code class="language-csharp" data-input-id="text-to-copy-3"></code></pre>
+    <pre class="language-csharp"><code id="text-to-copy-3" class="language-csharp">Sprite, Foreground, Centre, "<<span>filepath>", <<span>x>, <<span>y></code></pre>
     <button class="copy-button" data-input-id="text-to-copy-3" type="button"><img
-    src="lib/svg/laboratory/content-copy.svg" alt=""></button>
+            src="lib/svg/laboratory/content-copy.svg" alt=""></button>
 </div>
         
 ### Filepath: Locate Me, Senpai!
@@ -98,14 +94,12 @@ Those are the biggest concerns!
 *#Todo*( Quotation marks surrounding the filepath are also optional! However, if your path location to your sprite requires spaces, the quotation marks become required to use. Keep that in mind! )
 
 In that case, we can just move on our example with grabbing a lovely sprite of Hifumi.
-
+        
 <div class="code-container">
-    <textarea style="display: none;" disabled type="text"
-        id="text-to-copy-4">Sprite, Foreground, Centre, "<SB/hifumi.png>", <x>, <y></textarea>
     <div class="svg-icon"><img src="lib/svg/laboratory/browser-code.svg" alt=""></div>
-    <pre><code class="language-csharp" data-input-id="text-to-copy-4"></code></pre>
+    <pre class="language-csharp"><code id="text-to-copy-4" class="language-csharp">Sprite, Foreground, Centre, "<<span>SB/hifumi.png>", <<span>x>, <<span>y></code></pre>
     <button class="copy-button" data-input-id="text-to-copy-4" type="button"><img
-    src="lib/svg/laboratory/content-copy.svg" alt=""></button>
+            src="lib/svg/laboratory/content-copy.svg" alt=""></button>
 </div>
 
 ### Coordinates: X Marks the Spot!
@@ -130,12 +124,10 @@ So to summarize, here are the important values to take from this:
 So with all of this coordinate talk, we’ll just cop out and have the sprite centered. Easy enough, right?
 
 <div class="code-container">
-    <textarea style="display: none;" disabled type="text"
-        id="text-to-copy-5">Sprite, Foreground, Centre, "<SB/hifumi.png>", 320, 240</textarea>
     <div class="svg-icon"><img src="lib/svg/laboratory/browser-code.svg" alt=""></div>
-    <pre><code class="language-csharp" data-input-id="text-to-copy-5"></code></pre>
+    <pre class="language-csharp"><code id="text-to-copy-5" class="language-csharp">Sprite, Foreground, Centre, "<<span>SB/hifumi.png>", 320, 240</code></pre>
     <button class="copy-button" data-input-id="text-to-copy-5" type="button"><img
-    src="lib/svg/laboratory/content-copy.svg" alt=""></button>
+            src="lib/svg/laboratory/content-copy.svg" alt=""></button>
 </div>
 
 ### All Together Now...
