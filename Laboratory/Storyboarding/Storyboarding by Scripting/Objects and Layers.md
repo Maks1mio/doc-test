@@ -16,12 +16,10 @@ An object is basically the graphic that we want to display on a storyboard. Ther
 Let’s start off by creating a sprite! To create a new sprite, you’d write the following line within your .osb file: .. code-block:: c
 
 <div class="code-container">
-    <textarea style="display: none;" disabled type="text"
-        id="text-to-copy-1">Sprite,  <layer>,  <origin>, "<filepath>", <x>, <y></textarea>
     <div class="svg-icon"><img src="lib/svg/laboratory/browser-code.svg" alt=""></div>
-    <pre><code class="language-csharp" data-input-id="text-to-copy-1"></code></pre>
+    <pre><code id="text-to-copy-1" class="language-csharp"></code></pre>
     <button class="copy-button" data-input-id="text-to-copy-1" type="button"><img
-    src="lib/svg/laboratory/content-copy.svg" alt=""></button>
+            src="lib/svg/laboratory/content-copy.svg" alt=""></button>
 </div>
         
 Where...
