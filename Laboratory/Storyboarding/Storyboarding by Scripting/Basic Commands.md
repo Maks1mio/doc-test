@@ -1,7 +1,0 @@
-# Basic Commands
-
-```js
-alert("Basic Commands");
-```
-
-### test
