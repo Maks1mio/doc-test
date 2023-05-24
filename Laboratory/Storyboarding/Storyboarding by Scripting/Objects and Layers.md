@@ -17,7 +17,7 @@ Let’s start off by creating a sprite! To create a new sprite, you’d write th
 
 <div class="code-container">
     <div class="svg-icon"><img src="lib/svg/laboratory/browser-code.svg" alt=""></div>
-    <pre><code id="text-to-copy-1" class="language-csharp"></code></pre>
+    <pre><code id="text-to-copy-1" class="language-csharp">Sprite, Foreground, <origin>, "<filepath>", <x>, <y></code></pre>
     <button class="copy-button" data-input-id="text-to-copy-1" type="button"><img
             src="lib/svg/laboratory/content-copy.svg" alt=""></button>
 </div>
