@@ -9,34 +9,42 @@
             "name": "Создание сюжетных досок с помощью скриптов",
             "list": {
                 "0": {
+                    "id": 10000,
                     "name": "Объекты и слои",
                     "link": "https://raw.githubusercontent.com/Maks1mio/doc-test/main/RU/Laboratory/Storyboarding/Storyboarding%20by%20Scripting/Objects%20and%20Layers.md"
                 },
                 "1": {
+                    "id": 10001,
                     "name": "Основные команды",
                     "link": "https://raw.githubusercontent.com/Maks1mio/doc-test/main/RU/Laboratory/Storyboarding/Storyboarding%20by%20Scripting/Basic%20Commands.md"
                 },
                 "2": {
+                    "id": 10002,
                     "name": "Составные команды",
                     "link": "https://raw.githubusercontent.com/Maks1mio/doc-test/main/RU/Laboratory/Storyboarding/Storyboarding%20by%20Scripting/Compound%20Commands.md"
                 },
                 "3": {
+                    "id": 10003,
                     "name": "Дополнительные команды",
                     "link": ""
                 },
                 "4": {
+                    "id": 10004,
                     "name": "Ускорение",
                     "link": ""
                 },
                 "5": {
+                    "id": 10005,
                     "name": "Тематическое исследование",
                     "link": ""
                 },
                 "6": {
+                    "id": 10006,
                     "name": "Скриптование на DoubleTime: шпаргалка",
                     "link": ""
                 },
                 "7": {
+                    "id": 10007,
                     "name": "Разветвленные пути",
                     "link": ""
                 }

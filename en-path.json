@@ -9,34 +9,42 @@
             "name": "Storyboarding by Scripting",
             "list": {
                 "0": {
+                    "id": 10000,
                     "name": "Objects and Layers",
                     "link": "https://raw.githubusercontent.com/Maks1mio/doc-test/main/Laboratory/Storyboarding/Storyboarding%20by%20Scripting/Objects%20and%20Layers.md"
                 },
                 "1": {
+                    "id": 10001,
                     "name": "Basic Commands",
                     "link": "https://raw.githubusercontent.com/Maks1mio/doc-test/main/Laboratory/Storyboarding/Storyboarding%20by%20Scripting/Basic%20Commands.md"
                 },
                 "2": {
+                    "id": 10002,
                     "name": "Compound Commands",
                     "link": "https://raw.githubusercontent.com/Maks1mio/doc-test/main/Laboratory/Storyboarding/Storyboarding%20by%20Scripting/Compound%20Commands.md"
                 },
                 "3": {
+                    "id": 10003,
                     "name": "Additional Commands",
                     "link": ""
                 },
                 "4": {
+                    "id": 10004,
                     "name": "Easing",
                     "link": ""
                 },
                 "5": {
+                    "id": 10005,
                     "name": "Case Study",
                     "link": ""
                 },
                 "6": {
+                    "id": 10006,
                     "name": "Scripting on DoubleTime: A Cheat Sheet",
                     "link": ""
                 },
                 "7": {
+                    "id": 10007,
                     "name": "Branching Paths",
                     "link": ""
                 }
