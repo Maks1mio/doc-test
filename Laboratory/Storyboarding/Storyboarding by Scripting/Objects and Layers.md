@@ -25,10 +25,10 @@ Let’s start off by creating a sprite! To create a new sprite, you’d write th
 </div>
         
 Where...
-- <layer>: The [layer](https://osb.moe/learn/docs/storyboarding/glossary/#term-layer) you want your sprite to appear on.
-- <origin>: The place on the image the (x,y) position will be based on.
-- <filepath>: The filename of the image you want.
-- <x>, <y>: The (x,y) coordinates of where you want to sprite to appear.
+- `<layer>`: The [layer](https://osb.moe/learn/docs/storyboarding/glossary/#term-layer) you want your sprite to appear on.
+- `<origin>`: The place on the image the (x,y) position will be based on.
+- `<filepath>`: The filename of the image you want.
+- `<x>, <y>`: The (x,y) coordinates of where you want to sprite to appear.
 
 Let’s break it down further. If you have a good idea about this stuff already, you can [skip to where we’re going to put things together](https://osb.moe/learn/docs/storyboarding/scripting/objects_and_layers/#applying). After each section, we’re going to slowly replace each one of these items with an example, all totaling to a bona-fide, legit sprite that we can use and play around with!
 
