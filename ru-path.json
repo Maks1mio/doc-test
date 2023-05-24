@@ -3,7 +3,13 @@
         "name": "Создание сюжетных досок",
         "0": {
             "name": "Введение в создание сюжетных досок",
-            "list": ""
+            "list": {
+                "0": {
+                    "id": 0,
+                    "name": "Привет Мир!",
+                    "link": "https://raw.githubusercontent.com/Maks1mio/doc-test/main/RU/Laboratory/Storyboarding/Introduction%20to%20Storyboarding/Hello%20World!.md"
+                }
+            }
         },
         "1": {
             "name": "Создание сюжетных досок с помощью скриптов",
