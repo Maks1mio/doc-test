@@ -1,4 +1,4 @@
-# doc osb!moe
+# osb!moe laboratory
 
 The "text-to-copy-1" is an ID for the code block that allows it to be copied to the clipboard when the copy button is clicked. The numbering of the IDs should be sequential and unique within the markdown file to ensure that the correct code block is copied when the button is clicked.
 
