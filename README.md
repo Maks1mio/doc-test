@@ -1,10 +1,13 @@
-# doc osb!moe
+# osb!moe laboratory
 
-![image](https://github.com/Maks1mio/doc-test/assets/44835662/fffd8a06-121f-4f71-bfe3-315e922fd52d)
-![image](https://github.com/Maks1mio/doc-test/assets/44835662/91bb7e00-6e33-4cf8-8946-e4c56ab7e293)
+The "text-to-copy-1" is an ID for the code block that allows it to be copied to the clipboard when the copy button is clicked. The numbering of the IDs should be sequential and unique within the markdown file to ensure that the correct code block is copied when the button is clicked.
 
-![image](https://github.com/Maks1mio/doc-test/assets/44835662/c98b7335-61cd-4f51-ac81-898994ed33b0)
-![image](https://github.com/Maks1mio/doc-test/assets/44835662/5fe42912-b62c-4c67-946d-3882ea5b70bf)
-
-![image](https://github.com/Maks1mio/doc-test/assets/44835662/d5452da1-4dc8-4780-b546-8f4ff839fe16)
-![image](https://github.com/Maks1mio/doc-test/assets/44835662/78ebd522-c22d-4a1f-be80-8ece51a2828c)
+```html
+<div class="code-container">
+    <div class="svg-icon"><img src="lib/svg/laboratory/browser-code.svg" alt=""></div>
+    <pre class="language-csharp"><code id="text-to-copy-1" class="language-csharp">Sprite, <<span>layer>, <</span>origin>, "<<span>filepath>", <<span>x>, <<span>y></code></pre>
+    <button class="copy-button" data-input-id="text-to-copy-1" type="button"><img
+            src="lib/svg/laboratory/content-copy.svg" alt=""></button>
+</div>
+```
+![image](https://github.com/Maks1mio/doc-test/assets/44835662/fdddd94f-e2da-4ace-8ab3-8536db74623c)
